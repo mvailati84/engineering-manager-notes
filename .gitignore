@@ -1,0 +1,12 @@
+# Obsidian-specific files
+.obsidian/workspace
+.obsidian/appearance.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
