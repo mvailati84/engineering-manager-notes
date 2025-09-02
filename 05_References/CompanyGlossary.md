@@ -1,2 +1,2 @@
-# Glossario Aziendale
+# Glossary
 - 
