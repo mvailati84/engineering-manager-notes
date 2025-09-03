@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6221a45db90821ac",
+        "id": "7c68e6def875260d",
         "type": "tabs",
         "children": [
           {
-            "id": "c06f18a7ca4ffa58",
+            "id": "57d0b73db741bfbc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "06_TechReferences/Cheat Sheet/Claude Code.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Claude Code"
             }
           }
         ]
@@ -180,14 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c06f18a7ca4ffa58",
+  "active": "57d0b73db741bfbc",
   "lastOpenFiles": [
+    "06_TechReferences/Cheat Sheet/Obsidian Keyboard Shortcuts.md",
+    "06_TechReferences/Cheat Sheet/Claude Code.md",
     "06_TechReferences/Learning Notes/Windows Development Setup Guide.md",
     "06_TechReferences/Learning Notes",
     "06_TechReferences/Known Issues & Fixes/Claude Code Shift+Enter Keybinding Issue.md",
     "Untitled.base",
     "06_TechReferences/Known Issues & Fixes",
-    "06_TechReferences/Cheat Sheet/Obsidian Keyboard Shortcuts.md",
     "06_TechReferences/Cheat Sheet/Cursor Keyboard Shortcuts.md",
     "05_References/CompanyGlossary.md",
     "06_TechReferences/Cheat Sheet",
