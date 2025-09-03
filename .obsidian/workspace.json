@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "06_TechReferences/Cheat Sheet/Claude Code.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Claude Code"
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5064d1d31cf9bca",
+  "active": "57d0b73db741bfbc",
   "lastOpenFiles": [
     "06_TechReferences/Cheat Sheet/Obsidian Keyboard Shortcuts.md",
     "06_TechReferences/Cheat Sheet/Claude Code.md",
