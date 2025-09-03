@@ -6,6 +6,7 @@
 - **`/clear`** - Clears the entire session context and chat history
 - **`/compact`** - Compacts the chat & context into a small summary
 - **`ESC ESC`** - Rewind to a previous point in the session (press ESC twice)
+- **`/resume`** - Resume a previous chat session
 ### Multi-file Operations
 
 - **`/diff`** - Show differences between file versions
