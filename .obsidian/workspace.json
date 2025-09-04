@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_TechReferences/Cheat Sheet/Claude Code.md",
-                "mode": "preview",
+                "file": "06_TechReferences/Playbooks/Claude Code Setup.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Claude Code"
+              "title": "Claude Code Setup"
             }
           }
         ]
@@ -180,12 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57d0b73db741bfbc",
+  "active": "e9ffe2209cd46ba2",
   "lastOpenFiles": [
+    "06_TechReferences/Playbooks/Windows Development Setup Guide.md",
+    "06_TechReferences/Playbooks/Claude Code Setup.md",
     "06_TechReferences/Cheat Sheet/Obsidian Keyboard Shortcuts.md",
-    "06_TechReferences/Cheat Sheet/Claude Code.md",
-    "06_TechReferences/Learning Notes/Windows Development Setup Guide.md",
-    "06_TechReferences/Learning Notes",
+    "06_TechReferences/Playbooks",
     "06_TechReferences/Known Issues & Fixes/Claude Code Shift+Enter Keybinding Issue.md",
     "Untitled.base",
     "06_TechReferences/Known Issues & Fixes",
